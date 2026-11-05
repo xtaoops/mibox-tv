@@ -15,20 +15,16 @@ https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-name="30A Darcizzle Offshore (720p)" group-title="美国·户外",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-name="30A Georgia Hollywood Review (720p)" group-title="美国·娱乐新闻",30A Georgia Hollywood Review (720p)
+https://30a-tv.com/gh.m3u8
 #EXTINF:-1 tvg-name="30A Golf Kingdom (720p)" group-title="美国·体育",30A Golf Kingdom (720p)
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-name="30A Investment Pitch (720p)" group-title="美国·综合",30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-name="30A Luxe Life Discovered (720p)" group-title="美国·综合",30A Luxe Life Discovered (720p)
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
-#EXTINF:-1 tvg-name="30A Music (720p)" group-title="美国·音乐",30A Music (720p)
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="30A Ridiculous TV (720p)" group-title="美国·综合",30A Ridiculous TV (720p)
-https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-name="30A Sidewalks (720p)" group-title="美国·娱乐",30A Sidewalks (720p)
 https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-name="30A Television Channel (720p)" group-title="美国·娱乐",30A Television Channel (720p)
-https://30a-tv.com/feeds/masters/30atv.m3u8
 #EXTINF:-1 tvg-name="30A The Beach Show (720p)" group-title="美国·综合",30A The Beach Show (720p)
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-name="30A TV Classic Movies (720p)" group-title="美国·电影",30A TV Classic Movies (720p)
@@ -347,6 +343,8 @@ https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGci
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-name="CBS KIRO-TV (1080p)" group-title="美国·综合",CBS KIRO-TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS KWTV-DT (720p) [Not 24/7]" group-title="美国·综合",CBS KWTV-DT (720p) [Not 24/7]
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-name="CBS KZTV (720p)" group-title="美国·综合",CBS KZTV (720p)
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 #EXTINF:-1 tvg-name="CBS WCBI-TV (720p)" group-title="美国·综合",CBS WCBI-TV (720p)
@@ -573,6 +571,8 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS Musika (720p)" group-title="美国·音乐",EBS Musika (720p)
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-name="El Sembrador Nueva Evangelizacion ESNE" group-title="美国·宗教",El Sembrador Nueva Evangelizacion ESNE
+http://190.61.90.17:40000/play/a025/index.m3u8
 #EXTINF:-1 tvg-name="Elbeshara GTV (1080p) [Not 24/7]" group-title="美国·宗教",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Elevation Church Network (1080p)" group-title="美国·宗教",Elevation Church Network (1080p)
@@ -613,6 +613,8 @@ https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="FGTV (United States)" group-title="美国·综合",FGTV (United States)
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+#EXTINF:-1 tvg-name="Fierro a Fondo TV (1080p)" group-title="美国·综合",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-name="FITE 24/7 (1080p)" group-title="美国·体育",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-name="Flowers TV USA" group-title="美国·综合",Flowers TV USA
@@ -701,6 +703,8 @@ https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
 https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Global Fashion Channel (1080p)" group-title="美国·综合",Global Fashion Channel (1080p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="GlobalWorldTV (720p)" group-title="美国·娱乐",GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 #EXTINF:-1 tvg-name="God's Learning Channel KPCB-DT (480p)" group-title="美国·宗教",God's Learning Channel KPCB-DT (480p)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 tvg-name="GoodLife 45 (720p) [Not 24/7]" group-title="美国·宗教",GoodLife 45 (720p) [Not 24/7]
@@ -725,16 +729,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Guangdong TV America" group-title="美国·综合",Guangdong TV America
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
-#EXTINF:-1 tvg-name="GunAz TV" group-title="美国·综合",GunAz TV
-https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-name="Hallmark Mystery (720p) [Geo-blocked]" group-title="美国·电影",Hallmark Mystery (720p) [Geo-blocked]
 http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-name="HappyKids (1080p)" group-title="美国·少儿",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name="Harmony Gospel Music TV (1080p)" group-title="美国·音乐",Harmony Gospel Music TV (1080p)
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
-#EXTINF:-1 tvg-name="Harvest USA (576p)" group-title="美国·宗教",Harvest USA (576p)
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="HauntTV (1080p)" group-title="美国·综合",HauntTV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="HBCU-GO Sports (720p)" group-title="美国·体育",HBCU-GO Sports (720p)
@@ -1043,6 +1043,8 @@ https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playl
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC WHEC-TV (1080p)" group-title="美国·综合",NBC WHEC-TV (1080p)
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC WJAR (1080p)" group-title="美国·综合",NBC WJAR (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-name="NBC WMGT-TV (720p)" group-title="美国·综合",NBC WMGT-TV (720p)
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
 #EXTINF:-1 tvg-name="NBC WNYT (1080p)" group-title="美国·综合",NBC WNYT (1080p)
@@ -1293,8 +1295,6 @@ https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playl
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-name="SEC Network (1080p)" group-title="美国·综合",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-name="Semillitas TV (1080p)" group-title="美国·综合",Semillitas TV (1080p)
-http://168.196.127.137:6001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-name="SFGovTV2 (720p)" group-title="美国·综合",SFGovTV2 (720p)
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
 #EXTINF:-1 tvg-name="SFGovTV (720p)" group-title="美国·综合",SFGovTV (720p)
@@ -1331,8 +1331,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sound View Community Media (480p)" group-title="美国·综合",Sound View Community Media (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Spirit TV (720p) [Not 24/7]" group-title="美国·音乐",Spirit TV (720p) [Not 24/7]
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-name="SportsGrid (1080p)" group-title="美国·体育",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SPTV (360p)" group-title="美国·综合",SPTV (360p)
@@ -1517,8 +1515,6 @@ https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-name="TVS Drive In Movie (360p)" group-title="美国·电影",TVS Drive In Movie (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-name="TVS Family Channel (360p)" group-title="美国·家庭",TVS Family Channel (360p)
-https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 #EXTINF:-1 tvg-name="TVS Flashback Network (360p)" group-title="美国·娱乐",TVS Flashback Network (360p)
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-name="TVS Hi Tops (720p)" group-title="美国·少儿",TVS Hi Tops (720p)
@@ -1567,8 +1563,6 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="TVSA Public Channel (720p)" group-title="美国·综合",TVSA Public Channel (720p)
 https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
-#EXTINF:-1 tvg-name="TyC Sports USA" group-title="美国·体育",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-name="UCTV (720p) [Not 24/7]" group-title="美国·综合",UCTV (720p) [Not 24/7]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Unbeaten (1080p)" group-title="美国·体育",Unbeaten (1080p)
@@ -1655,6 +1649,8 @@ https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 tvg-name="Whiplash Cinema (480p)" group-title="美国·电影",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-name="Whiplash II (480p)" group-title="美国·综合",Whiplash II (480p)
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-name="White Plains Community Media (360p)" group-title="美国·综合",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 tvg-name="Willamette Falls Media Center" group-title="美国·综合",Willamette Falls Media Center
@@ -1743,8 +1739,6 @@ https://tvsen6.aynaott.com/cp24/index.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="加拿大·综合",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Dukh Nivaran (720p) [Not 24/7]" group-title="加拿大·综合",Dukh Nivaran (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-name="Eawaz TV (720p) [Not 24/7]" group-title="加拿大·综合",Eawaz TV (720p) [Not 24/7]
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-name="EET TV (1080p) [Not 24/7]" group-title="加拿大·综合",EET TV (1080p) [Not 24/7]
@@ -1803,8 +1797,14 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-name="Love Nature 4K (2160p) [Geo-blocked]" group-title="加拿大·户外",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD (1080p)" group-title="加拿大·户外",Love Nature HD (1080p)
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-name="MHZ" group-title="加拿大·娱乐",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NTD TV Canada" group-title="加拿大·综合",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-name="NTD TV Canada West" group-title="加拿大·综合",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV (Canada) CJON-DT (480p)" group-title="加拿大·综合",NTV (Canada) CJON-DT (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV+" group-title="加拿大·综合",NTV+
@@ -1885,10 +1885,10 @@ http://play.kankanlive.com/live/1711956137852982.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bread TV (720p)" group-title="中国·综合",Bread TV (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-1 (720p)" group-title="中国·综合",CCTV-1 (720p)
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-3 (720p)" group-title="中国·娱乐",CCTV-3 (720p)
-http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV+ 1 (600p) [Not 24/7]" group-title="中国·新闻",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV+ 2 (600p) [Not 24/7]" group-title="中国·新闻",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-9 (576i)" group-title="中国·纪录片",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-name="CCTV-12 (720p)" group-title="中国·综合",CCTV-12 (720p)
@@ -1933,14 +1933,10 @@ http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-6" group-title="中国·少儿",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-#EXTINF:-1 tvg-name="TV BRICS Chinese (1080p)" group-title="中国·综合",TV BRICS Chinese (1080p)
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-name="VoA TV China (1080p)" group-title="中国·综合",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="Xinjiang TV 2" group-title="中国·综合",Xinjiang TV 2
 http://110.153.180.106:55555/out_3/index.m3u8
-#EXTINF:-1 tvg-name="Xinjiang TV 3" group-title="中国·综合",Xinjiang TV 3
-http://110.153.180.106:55555/out_2/index.m3u8
 #EXTINF:-1 tvg-name="Xinjiang TV 5" group-title="中国·综合",Xinjiang TV 5
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Xinjiang TV 8" group-title="中国·综合",Xinjiang TV 8
@@ -2027,10 +2023,28 @@ http://epg.112114.xyz/douyu/6003761
 http://epg.112114.xyz/douyu/9683979
 #EXTINF:-1 tvg-name="斗鱼电影HD40" group-title="中国·综合",斗鱼电影HD40
 http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 tvg-name="斗鱼电影HD41" group-title="中国·综合",斗鱼电影HD41
+http://epg.112114.xyz/douyu/59612
 #EXTINF:-1 tvg-name="斗鱼电影HD42" group-title="中国·综合",斗鱼电影HD42
 http://epg.112114.xyz/douyu/925724
+#EXTINF:-1 tvg-name="斗鱼电影1" group-title="中国·综合",斗鱼电影1
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1 tvg-name="斗鱼电影2" group-title="中国·综合",斗鱼电影2
+http://epg.112114.xyz/douyu/2935323
+#EXTINF:-1 tvg-name="斗鱼电影3" group-title="中国·综合",斗鱼电影3
+http://epg.112114.xyz/douyu/6027991
+#EXTINF:-1 tvg-name="斗鱼电影4" group-title="中国·综合",斗鱼电影4
+http://epg.112114.xyz/douyu/4105989
+#EXTINF:-1 tvg-name="斗鱼电影5" group-title="中国·综合",斗鱼电影5
+http://epg.112114.xyz/douyu/6369954
 #EXTINF:-1 tvg-name="斗鱼电影6" group-title="中国·综合",斗鱼电影6
 http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-name="斗鱼电影7" group-title="中国·综合",斗鱼电影7
+http://epg.112114.xyz/douyu/7494871
+#EXTINF:-1 tvg-name="斗鱼电影8" group-title="中国·综合",斗鱼电影8
+http://epg.112114.xyz/douyu/8986148
+#EXTINF:-1 tvg-name="斗鱼电影9" group-title="中国·综合",斗鱼电影9
+http://epg.112114.xyz/douyu/74374
 #EXTINF:-1 tvg-name="斗鱼电影10" group-title="中国·综合",斗鱼电影10
 http://epg.112114.xyz/douyu/4870914
 #EXTINF:-1 tvg-name="斗鱼电影11" group-title="中国·综合",斗鱼电影11
@@ -2069,8 +2083,16 @@ http://epg.112114.xyz/douyu/4505431
 http://epg.112114.xyz/douyu/7221304
 #EXTINF:-1 tvg-name="斗鱼电影28" group-title="中国·综合",斗鱼电影28
 http://epg.112114.xyz/douyu/3990812
+#EXTINF:-1 tvg-name="斗鱼电影29" group-title="中国·综合",斗鱼电影29
+http://epg.112114.xyz/douyu/315457
+#EXTINF:-1 tvg-name="斗鱼电影30" group-title="中国·综合",斗鱼电影30
+http://epg.112114.xyz/douyu/805235
+#EXTINF:-1 tvg-name="斗鱼电影31" group-title="中国·综合",斗鱼电影31
+http://epg.112114.xyz/douyu/6655271
 #EXTINF:-1 tvg-name="斗鱼电影32" group-title="中国·综合",斗鱼电影32
 http://epg.112114.xyz/douyu/7353112
+#EXTINF:-1 tvg-name="斗鱼电影33" group-title="中国·综合",斗鱼电影33
+http://epg.112114.xyz/douyu/434971
 #EXTINF:-1 tvg-name="斗鱼电影34" group-title="中国·综合",斗鱼电影34
 http://epg.112114.xyz/douyu/10329300
 #EXTINF:-1 tvg-name="斗鱼电影35" group-title="中国·综合",斗鱼电影35
@@ -2083,12 +2105,36 @@ http://epg.112114.xyz/douyu/6763930
 http://epg.112114.xyz/douyu/7136517
 #EXTINF:-1 tvg-name="斗鱼电影39" group-title="中国·综合",斗鱼电影39
 http://epg.112114.xyz/douyu/8107217
+#EXTINF:-1 tvg-name="斗鱼电视剧HD1" group-title="中国·综合",斗鱼电视剧HD1
+http://epg.112114.xyz/douyu/2838296
+#EXTINF:-1 tvg-name="斗鱼电视剧HD2" group-title="中国·综合",斗鱼电视剧HD2
+http://epg.112114.xyz/douyu/7701735
+#EXTINF:-1 tvg-name="斗鱼电视剧HD3" group-title="中国·综合",斗鱼电视剧HD3
+http://epg.112114.xyz/douyu/7517784
+#EXTINF:-1 tvg-name="斗鱼电视剧HD4" group-title="中国·综合",斗鱼电视剧HD4
+http://epg.112114.xyz/douyu/7489563
 #EXTINF:-1 tvg-name="斗鱼电视剧HD5" group-title="中国·综合",斗鱼电视剧HD5
 http://epg.112114.xyz/douyu/6566658
 #EXTINF:-1 tvg-name="斗鱼电视剧HD6" group-title="中国·综合",斗鱼电视剧HD6
 http://epg.112114.xyz/douyu/431460
 #EXTINF:-1 tvg-name="斗鱼电视剧HD7" group-title="中国·综合",斗鱼电视剧HD7
 http://epg.112114.xyz/douyu/8600645
+#EXTINF:-1 tvg-name="斗鱼电视剧HD8" group-title="中国·综合",斗鱼电视剧HD8
+http://epg.112114.xyz/douyu/7575350
+#EXTINF:-1 tvg-name="斗鱼电视剧HD10" group-title="中国·综合",斗鱼电视剧HD10
+http://epg.112114.xyz/douyu/7644931
+#EXTINF:-1 tvg-name="斗鱼电视剧HD11" group-title="中国·综合",斗鱼电视剧HD11
+http://epg.112114.xyz/douyu/9650860
+#EXTINF:-1 tvg-name="斗鱼电视剧HD12" group-title="中国·综合",斗鱼电视剧HD12
+http://epg.112114.xyz/douyu/9435180
+#EXTINF:-1 tvg-name="斗鱼电视剧HD13" group-title="中国·综合",斗鱼电视剧HD13
+http://epg.112114.xyz/douyu/3756989
+#EXTINF:-1 tvg-name="斗鱼电视剧HD14" group-title="中国·综合",斗鱼电视剧HD14
+http://epg.112114.xyz/douyu/6706214
+#EXTINF:-1 tvg-name="斗鱼电视剧HD15" group-title="中国·综合",斗鱼电视剧HD15
+http://epg.112114.xyz/douyu/6478650
+#EXTINF:-1 tvg-name="斗鱼电视剧2" group-title="中国·综合",斗鱼电视剧2
+http://epg.112114.xyz/douyu/6899895
 #EXTINF:-1 tvg-name="斗鱼电视剧3" group-title="中国·综合",斗鱼电视剧3
 http://epg.112114.xyz/douyu/276200
 #EXTINF:-1 tvg-name="斗鱼电视剧4" group-title="中国·综合",斗鱼电视剧4
@@ -2097,12 +2143,100 @@ http://epg.112114.xyz/douyu/4290711
 http://epg.112114.xyz/douyu/6648727
 #EXTINF:-1 tvg-name="斗鱼电视剧6" group-title="中国·综合",斗鱼电视剧6
 http://epg.112114.xyz/douyu/7314294
+#EXTINF:-1 tvg-name="斗鱼电视剧7" group-title="中国·综合",斗鱼电视剧7
+http://epg.112114.xyz/douyu/9638983
+#EXTINF:-1 tvg-name="斗鱼电视剧8" group-title="中国·综合",斗鱼电视剧8
+http://epg.112114.xyz/douyu/5261342
+#EXTINF:-1 tvg-name="斗鱼电视剧9" group-title="中国·综合",斗鱼电视剧9
+http://epg.112114.xyz/douyu/5522351
+#EXTINF:-1 tvg-name="斗鱼电视剧10" group-title="中国·综合",斗鱼电视剧10
+http://epg.112114.xyz/douyu/9639508
+#EXTINF:-1 tvg-name="斗鱼电视剧11" group-title="中国·综合",斗鱼电视剧11
+http://epg.112114.xyz/douyu/2083382
+#EXTINF:-1 tvg-name="斗鱼电视剧12" group-title="中国·综合",斗鱼电视剧12
+http://epg.112114.xyz/douyu/4373285
+#EXTINF:-1 tvg-name="斗鱼电视剧13" group-title="中国·综合",斗鱼电视剧13
+http://epg.112114.xyz/douyu/3439096
+#EXTINF:-1 tvg-name="斗鱼电视剧14" group-title="中国·综合",斗鱼电视剧14
+http://epg.112114.xyz/douyu/4549169
+#EXTINF:-1 tvg-name="斗鱼电视剧15" group-title="中国·综合",斗鱼电视剧15
+http://epg.112114.xyz/douyu/7254536
+#EXTINF:-1 tvg-name="斗鱼电视剧16" group-title="中国·综合",斗鱼电视剧16
+http://epg.112114.xyz/douyu/3928r9
+#EXTINF:-1 tvg-name="斗鱼电视剧17" group-title="中国·综合",斗鱼电视剧17
+http://epg.112114.xyz/douyu/7270927
+#EXTINF:-1 tvg-name="斗鱼电视剧18" group-title="中国·综合",斗鱼电视剧18
+http://epg.112114.xyz/douyu/7116591
+#EXTINF:-1 tvg-name="斗鱼电视剧19" group-title="中国·综合",斗鱼电视剧19
+http://epg.112114.xyz/douyu/7459925
+#EXTINF:-1 tvg-name="斗鱼电视剧20" group-title="中国·综合",斗鱼电视剧20
+http://epg.112114.xyz/douyu/674441
+#EXTINF:-1 tvg-name="斗鱼电视剧21" group-title="中国·综合",斗鱼电视剧21
+http://epg.112114.xyz/douyu/9518204
+#EXTINF:-1 tvg-name="斗鱼电视剧22" group-title="中国·综合",斗鱼电视剧22
+http://epg.112114.xyz/douyu/10297898
+#EXTINF:-1 tvg-name="斗鱼电视剧23" group-title="中国·综合",斗鱼电视剧23
+http://epg.112114.xyz/douyu/8901218
+#EXTINF:-1 tvg-name="斗鱼电视剧24" group-title="中国·综合",斗鱼电视剧24
+http://epg.112114.xyz/douyu/7292330
+#EXTINF:-1 tvg-name="斗鱼电视剧25" group-title="中国·综合",斗鱼电视剧25
+http://epg.112114.xyz/douyu/7623292
+#EXTINF:-1 tvg-name="斗鱼电视剧26" group-title="中国·综合",斗鱼电视剧26
+http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1 tvg-name="斗鱼电视剧27" group-title="中国·综合",斗鱼电视剧27
+http://epg.112114.xyz/douyu/10068957
 #EXTINF:-1 tvg-name="斗鱼电视剧28" group-title="中国·综合",斗鱼电视剧28
 http://epg.112114.xyz/douyu/308752
+#EXTINF:-1 tvg-name="斗鱼电视剧29" group-title="中国·综合",斗鱼电视剧29
+http://epg.112114.xyz/douyu/3758762
+#EXTINF:-1 tvg-name="斗鱼动漫HD1" group-title="中国·综合",斗鱼动漫HD1
+http://epg.112114.xyz/douyu/6449849
+#EXTINF:-1 tvg-name="斗鱼动漫HD2" group-title="中国·综合",斗鱼动漫HD2
+http://epg.112114.xyz/douyu/206858
+#EXTINF:-1 tvg-name="斗鱼动漫HD3" group-title="中国·综合",斗鱼动漫HD3
+http://epg.112114.xyz/douyu/10394922
+#EXTINF:-1 tvg-name="斗鱼动漫1" group-title="中国·综合",斗鱼动漫1
+http://epg.112114.xyz/douyu/6610883
 #EXTINF:-1 tvg-name="斗鱼动漫2" group-title="中国·综合",斗鱼动漫2
 http://epg.112114.xyz/douyu/1783144
+#EXTINF:-1 tvg-name="斗鱼动漫3" group-title="中国·综合",斗鱼动漫3
+http://epg.112114.xyz/douyu/7190773
+#EXTINF:-1 tvg-name="斗鱼动漫4" group-title="中国·综合",斗鱼动漫4
+http://epg.112114.xyz/douyu/1174353
+#EXTINF:-1 tvg-name="斗鱼动漫5" group-title="中国·综合",斗鱼动漫5
+http://epg.112114.xyz/douyu/7528160
+#EXTINF:-1 tvg-name="斗鱼动漫6" group-title="中国·综合",斗鱼动漫6
+http://epg.112114.xyz/douyu/7888428
+#EXTINF:-1 tvg-name="斗鱼搞笑HD1" group-title="中国·综合",斗鱼搞笑HD1
+http://epg.112114.xyz/douyu/9220456
+#EXTINF:-1 tvg-name="斗鱼搞笑HD2" group-title="中国·综合",斗鱼搞笑HD2
+http://epg.112114.xyz/douyu/9770949
+#EXTINF:-1 tvg-name="斗鱼搞笑HD3" group-title="中国·综合",斗鱼搞笑HD3
+http://epg.112114.xyz/douyu/9067836
+#EXTINF:-1 tvg-name="斗鱼搞笑HD4" group-title="中国·综合",斗鱼搞笑HD4
+http://epg.112114.xyz/douyu/9817729
+#EXTINF:-1 tvg-name="斗鱼搞笑HD5" group-title="中国·综合",斗鱼搞笑HD5
+http://epg.112114.xyz/douyu/8737695
+#EXTINF:-1 tvg-name="斗鱼搞笑1" group-title="中国·综合",斗鱼搞笑1
+http://epg.112114.xyz/douyu/10378551
+#EXTINF:-1 tvg-name="斗鱼搞笑2" group-title="中国·综合",斗鱼搞笑2
+http://epg.112114.xyz/douyu/9804180
 #EXTINF:-1 tvg-name="斗鱼搞笑3" group-title="中国·综合",斗鱼搞笑3
 http://epg.112114.xyz/douyu/2132902
+#EXTINF:-1 tvg-name="斗鱼影评HD2" group-title="中国·综合",斗鱼影评HD2
+http://epg.112114.xyz/douyu/10240495
+#EXTINF:-1 tvg-name="斗鱼影评HD3" group-title="中国·综合",斗鱼影评HD3
+http://epg.112114.xyz/douyu/9419771
+#EXTINF:-1 tvg-name="斗鱼影评HD4" group-title="中国·综合",斗鱼影评HD4
+http://epg.112114.xyz/douyu/4258555
+#EXTINF:-1 tvg-name="斗鱼影评HD5" group-title="中国·综合",斗鱼影评HD5
+http://epg.112114.xyz/douyu/8317926
+#EXTINF:-1 tvg-name="斗鱼影评HD6" group-title="中国·综合",斗鱼影评HD6
+http://epg.112114.xyz/douyu/10317257
+#EXTINF:-1 tvg-name="斗鱼影评HD7" group-title="中国·综合",斗鱼影评HD7
+http://epg.112114.xyz/douyu/8986636
+#EXTINF:-1 tvg-name="斗鱼影评HD8" group-title="中国·综合",斗鱼影评HD8
+http://epg.112114.xyz/douyu/9837291
 #EXTINF:-1 tvg-name="斗鱼影评HD9" group-title="中国·综合",斗鱼影评HD9
 http://epg.112114.xyz/douyu/297689
 #EXTINF:-1 tvg-name="斗鱼影评HD10" group-title="中国·综合",斗鱼影评HD10
@@ -2225,8 +2359,6 @@ http://epg.112114.xyz/douyu/2038911
 http://epg.112114.xyz/douyu/486816
 #EXTINF:-1 tvg-name="斗鱼游戏HD27" group-title="中国·综合",斗鱼游戏HD27
 http://epg.112114.xyz/douyu/459911
-#EXTINF:-1 tvg-name="斗鱼游戏HD28" group-title="中国·综合",斗鱼游戏HD28
-http://epg.112114.xyz/douyu/4872710
 #EXTINF:-1 tvg-name="斗鱼游戏HD29" group-title="中国·综合",斗鱼游戏HD29
 http://epg.112114.xyz/douyu/428250
 #EXTINF:-1 tvg-name="斗鱼游戏HD30" group-title="中国·综合",斗鱼游戏HD30
@@ -2241,8 +2373,6 @@ http://epg.112114.xyz/douyu/65251
 http://epg.112114.xyz/douyu/6712395
 #EXTINF:-1 tvg-name="斗鱼游戏9" group-title="中国·综合",斗鱼游戏9
 http://epg.112114.xyz/douyu/693708
-#EXTINF:-1 tvg-name="斗鱼棋牌1" group-title="中国·综合",斗鱼棋牌1
-http://epg.112114.xyz/douyu/1227260
 #EXTINF:-1 tvg-name="斗鱼棋牌2" group-title="中国·综合",斗鱼棋牌2
 http://epg.112114.xyz/douyu/851040
 #EXTINF:-1 tvg-name="斗鱼棋牌3" group-title="中国·综合",斗鱼棋牌3
@@ -2471,3 +2601,205 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="朝鲜中央台" group-title="中国·综合",朝鲜中央台
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-name="CBC Comedy" group-title="国际·主流台",CBC Comedy
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:-1 tvg-name="CBC Heartland" group-title="国际·主流台",CBC Heartland
+https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
+#EXTINF:-1 tvg-name="CBC Kids Channel" group-title="国际·主流台",CBC Kids Channel
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
+#EXTINF:-1 tvg-name="CBC Murdoch Mysteries" group-title="国际·主流台",CBC Murdoch Mysteries
+https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
+#EXTINF:-1 tvg-name="CBC News BC" group-title="国际·主流台",CBC News BC
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 tvg-name="CBC News Explore" group-title="国际·主流台",CBC News Explore
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+#EXTINF:-1 tvg-name="CBC News Toronto" group-title="国际·主流台",CBC News Toronto
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Germany" group-title="国际·主流台",BBC Top Gear Germany
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Finland" group-title="国际·主流台",BBC Top Gear Finland
+https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear France" group-title="国际·主流台",BBC Top Gear France
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Drama Italy" group-title="国际·主流台",BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear Italy" group-title="国际·主流台",BBC Top Gear Italy
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 20/20" group-title="国际·主流台",ABC 20/20
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+#EXTINF:-1 tvg-name="CW FOREVER" group-title="国际·主流台",CW FOREVER
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="CW Gold" group-title="国际·主流台",CW Gold
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Sports" group-title="国际·主流台",FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-name="Fox Sports" group-title="国际·主流台",Fox Sports
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Impossible" group-title="国际·主流台",BBC Impossible
+https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear" group-title="国际·主流台",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-name="23 ABC Bakersfield CA (KERO)" group-title="国际·主流台",23 ABC Bakersfield CA (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-name="ABC 9 Charlotte NC (WSOC)" group-title="国际·主流台",ABC 9 Charlotte NC (WSOC)
+https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC Tallahassee" group-title="国际·主流台",ABC Tallahassee
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+#EXTINF:-1 tvg-name="ABC News" group-title="国际·主流台",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" group-title="国际·主流台",ABC News Live
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+#EXTINF:-1 tvg-name="ABC-TV Paraguay" group-title="国际·主流台",ABC-TV Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="国际·主流台",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Drama" group-title="国际·主流台",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Czechia" group-title="国际·主流台",BBC Earth Czechia
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Hungary" group-title="国际·主流台",BBC Earth Hungary
+http://88.212.7.14/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="国际·主流台",BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC First Turkiye" group-title="国际·主流台",BBC First Turkiye
+http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="国际·主流台",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-name="BBC News" group-title="国际·主流台",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="国际·主流台",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC News (1080p) (HEVC)" group-title="国际·主流台",BBC News (1080p) (HEVC)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="BBC News Europe" group-title="国际·主流台",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Europe" group-title="国际·主流台",BBC News Europe
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BBC News North America" group-title="国际·主流台",BBC News North America
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+#EXTINF:-1 tvg-name="BBC News North America" group-title="国际·主流台",BBC News North America
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="BBC News South Asia" group-title="国际·主流台",BBC News South Asia
+https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-name="BBC News Pashto" group-title="国际·主流台",BBC News Pashto
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC News Pashto" group-title="国际·主流台",BBC News Pashto
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Persian" group-title="国际·主流台",BBC Persian
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-name="BBC Persian (720p) (HEVC)" group-title="国际·主流台",BBC Persian (720p) (HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-name="CBC News" group-title="国际·主流台",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="CBC TV8" group-title="国际·主流台",CBC TV8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1 tvg-name="CBS 3 Omaha NE (KMTV-TV)" group-title="国际·主流台",CBS 3 Omaha NE (KMTV-TV)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" group-title="国际·主流台",CBS News 24/7
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" group-title="国际·主流台",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Boston" group-title="国际·主流台",CBS News Boston
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
+#EXTINF:-1 tvg-name="CBS News Los Angeles" group-title="国际·主流台",CBS News Los Angeles
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8
+#EXTINF:-1 tvg-name="CBS News Miami" group-title="国际·主流台",CBS News Miami
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
+#EXTINF:-1 tvg-name="CCTV-1" group-title="国际·主流台",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-1" group-title="国际·主流台",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 America" group-title="国际·主流台",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 Europe" group-title="国际·主流台",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil" group-title="国际·主流台",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-name="CNN en Espanol" group-title="国际·主流台",CNN en Espanol
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" group-title="国际·主流台",CNN International
+http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" group-title="国际·主流台",CNN International
+https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
+#EXTINF:-1 tvg-name="CNN International Latin America" group-title="国际·主流台",CNN International Latin America
+http://168.228.44.241:9997/play/a073/index.m3u8
+#EXTINF:-1 tvg-name="CNN News 18" group-title="国际·主流台",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-name="CNN Prima News" group-title="国际·主流台",CNN Prima News
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC 3 Sacramento CA (KCRA)" group-title="国际·主流台",NBC 3 Sacramento CA (KCRA)
+https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 13 Las Vegas NV (KTNV)" group-title="国际·主流台",ABC 13 Las Vegas NV (KTNV)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-name="NBC 12 Winston-Salem NC (WXII)" group-title="国际·主流台",NBC 12 Winston-Salem NC (WXII)
+https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox" group-title="国际·主流台",Fox
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 tvg-name="Fox Business Network" group-title="国际·主流台",Fox Business Network
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 tvg-name="Fox Sports en Espanol" group-title="国际·主流台",Fox Sports en Espanol
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" group-title="国际·主流台",Fox News Channel
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="Fox News Channel" group-title="国际·主流台",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-name="Fox Sports HD" group-title="国际·主流台",Fox Sports HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+#EXTINF:-1 tvg-name="Fox Sports" group-title="国际·主流台",Fox Sports
+http://158.172.155.130:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports News" group-title="国际·主流台",Fox Sports News
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 tvg-name="Fox Weather" group-title="国际·主流台",Fox Weather
+https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8
+#EXTINF:-1 tvg-name="ABC 15 Phoenix AZ (KNXV-TV)" group-title="国际·主流台",ABC 15 Phoenix AZ (KNXV-TV)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-name="NBC 4 Albuquerque NM (KOB)" group-title="国际·主流台",NBC 4 Albuquerque NM (KOB)
+https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX" group-title="国际·主流台",LiveNOW from FOX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX" group-title="国际·主流台",LiveNOW from FOX
+https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
+#EXTINF:-1 tvg-name="NBC 26 Green Bay WI (WGBA-DT1)" group-title="国际·主流台",NBC 26 Green Bay WI (WGBA-DT1)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-name="NBC LX Home" group-title="国际·主流台",NBC LX Home
+https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="NBC LX Home" group-title="国际·主流台",NBC LX Home
+https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8
+#EXTINF:-1 tvg-name="NBC News NOW" group-title="国际·主流台",NBC News NOW
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" group-title="国际·主流台",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="NBC Sports NOW" group-title="国际·主流台",NBC Sports NOW
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-name="NBC Sports" group-title="国际·主流台",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="NBC TV" group-title="国际·主流台",NBC TV
+https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="TVB Vietnam" group-title="国际·主流台",TVB Vietnam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP ABC" group-title="国际·主流台",TVP ABC
+http://92.114.85.87:8002/play/a00b/index.m3u8
