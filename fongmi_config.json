@@ -2,7 +2,7 @@
  "lives": [
   {
    "name": "全球直播",
-   "url": "https://raw.githubusercontent.com/xtaoops/mibox-tv/master/live_all.m3u",
+   "url": "https://xtaoops.github.io/mibox-tv/live_all.m3u",
    "group": "直播",
    "playerType": 1,
    "ua": "VLC/3.0.20"
