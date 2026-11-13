@@ -1,5 +1,15 @@
 {
-  "sites": [],
+  "sites": [
+    {
+      "key": "csp_LocalFile",
+      "name": "本地媒体",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ],
   "parses": [],
   "lives": [
     {

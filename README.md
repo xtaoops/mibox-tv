@@ -10,7 +10,7 @@
 | FongMi 配置 | `https://raw.githubusercontent.com/xtaoops/mibox-tv/master/fongmi_config.json` |
 | 通用 M3U 直播清单 | `https://raw.githubusercontent.com/xtaoops/mibox-tv/master/public_broadcasters.m3u` |
 
-TVBox 中填入“TVBox 配置”地址即可；支持 M3U 的其他播放器填“通用 M3U 直播清单”。
+TVBox 中填入“TVBox 配置”地址即可；配置含一个不联网的“本地媒体”占位站点，以通过 TVBox-NEXT 的启动检查。支持 M3U 的其他播放器填“通用 M3U 直播清单”。
 
 ## 当前频道
 
