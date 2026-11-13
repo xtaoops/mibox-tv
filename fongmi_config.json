@@ -1,8 +1,8 @@
 {
  "lives": [
   {
-   "name": "全球直播",
-   "url": "https://xtaoops.github.io/mibox-tv/live_all.m3u",
+   "name": "公开国际直播（实测）",
+   "url": "https://raw.githubusercontent.com/xtaoops/mibox-tv/master/public_broadcasters.m3u",
    "group": "直播",
    "playerType": 1,
    "ua": "VLC/3.0.20"

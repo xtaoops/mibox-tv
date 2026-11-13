@@ -1,0 +1,23 @@
+#EXTM3U
+# 公开播出机构精选；2026-11-14 从当前网络逐条取得 HLS 清单。
+# 各台仍可能按所在地、播出权或网络策略限制播放。
+#EXTINF:-1 tvg-name="BBC World Service" group-title="国际新闻",BBC World Service（英语／音频）
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-name="DW English" group-title="国际新闻",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-name="DW Deutsch" group-title="国际新闻",DW Deutsch
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="France 24 English" group-title="国际新闻",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="France 24 Français" group-title="国际新闻",France 24 Français
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" group-title="国际新闻",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 tvg-name="TRT World" group-title="国际新闻",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="CGTN English" group-title="国际新闻",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-name="CityNews Calgary" group-title="加拿大·卡尔加里",CityNews Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-name="RTHK TV 31" group-title="香港",RTHK TV 31（可能受地区限制）
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
